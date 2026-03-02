@@ -13,7 +13,7 @@
                     total = total + i;
                 }
             }
-            Console.WriteLine("Sayıların toplamı: " + total);
+            Console.WriteLine("Numbers Total: " + total);
         }
     }
 }

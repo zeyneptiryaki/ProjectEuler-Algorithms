@@ -3,19 +3,31 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36518.9
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler1", "ProjectEuler1\ProjectEuler1.csproj", "{89871B21-1F8F-4CFC-9725-D5038094A5B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler01", "ProjectEuler1\ProjectEuler01.csproj", "{89871B21-1F8F-4CFC-9725-D5038094A5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler2", "ProjectEuler2\ProjectEuler2.csproj", "{CDE62584-D901-4C73-AB91-EF167E28E40A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler02", "ProjectEuler2\ProjectEuler02.csproj", "{CDE62584-D901-4C73-AB91-EF167E28E40A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler3", "ProjectEuler3\ProjectEuler3.csproj", "{D61052CE-FC87-41D3-92AC-F2B38212C13D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler03", "ProjectEuler3\ProjectEuler03.csproj", "{D61052CE-FC87-41D3-92AC-F2B38212C13D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler4", "ProjectEuler4\ProjectEuler4.csproj", "{07461A9D-0107-4C9B-A8AD-5E55F796563C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler04", "ProjectEuler4\ProjectEuler04.csproj", "{07461A9D-0107-4C9B-A8AD-5E55F796563C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler5", "ProjectEuler5\ProjectEuler5.csproj", "{D1280505-840C-45AF-9FC3-F29A10257D32}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler05", "ProjectEuler5\ProjectEuler05.csproj", "{D1280505-840C-45AF-9FC3-F29A10257D32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler6", "ProjectEuler6\ProjectEuler6.csproj", "{2507B4BA-674C-4266-897C-1AA04D3F3A74}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler06", "ProjectEuler6\ProjectEuler06.csproj", "{2507B4BA-674C-4266-897C-1AA04D3F3A74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler7", "ProjectEuler7\ProjectEuler7.csproj", "{884389B9-F639-4DD3-83C6-FF95D16BC677}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler07", "ProjectEuler7\ProjectEuler07.csproj", "{884389B9-F639-4DD3-83C6-FF95D16BC677}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler08", "ProjectEuler8\ProjectEuler08.csproj", "{A1C193F9-E627-43B9-B66D-C73A682C4F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler09", "ProjectEuler9\ProjectEuler09.csproj", "{0AE8777C-9EB6-4B19-A93D-560FDF88B6B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler10", "ProjectEuler10\ProjectEuler10.csproj", "{28AA9F05-0F9C-4F5A-BE8C-2E9DF5B62F23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler11", "ProjectEuler11\ProjectEuler11.csproj", "{BF01CB33-7AB6-48E7-AA18-8B4A1301CDBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectEuler12", "ProjectEuler12\ProjectEuler12.csproj", "{BE1FDCB2-4180-4550-856F-376423494854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +63,26 @@ Global
 		{884389B9-F639-4DD3-83C6-FF95D16BC677}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{884389B9-F639-4DD3-83C6-FF95D16BC677}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{884389B9-F639-4DD3-83C6-FF95D16BC677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C193F9-E627-43B9-B66D-C73A682C4F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C193F9-E627-43B9-B66D-C73A682C4F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C193F9-E627-43B9-B66D-C73A682C4F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C193F9-E627-43B9-B66D-C73A682C4F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AE8777C-9EB6-4B19-A93D-560FDF88B6B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AE8777C-9EB6-4B19-A93D-560FDF88B6B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AE8777C-9EB6-4B19-A93D-560FDF88B6B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AE8777C-9EB6-4B19-A93D-560FDF88B6B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28AA9F05-0F9C-4F5A-BE8C-2E9DF5B62F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28AA9F05-0F9C-4F5A-BE8C-2E9DF5B62F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28AA9F05-0F9C-4F5A-BE8C-2E9DF5B62F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28AA9F05-0F9C-4F5A-BE8C-2E9DF5B62F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF01CB33-7AB6-48E7-AA18-8B4A1301CDBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF01CB33-7AB6-48E7-AA18-8B4A1301CDBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF01CB33-7AB6-48E7-AA18-8B4A1301CDBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF01CB33-7AB6-48E7-AA18-8B4A1301CDBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1FDCB2-4180-4550-856F-376423494854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1FDCB2-4180-4550-856F-376423494854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1FDCB2-4180-4550-856F-376423494854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1FDCB2-4180-4550-856F-376423494854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

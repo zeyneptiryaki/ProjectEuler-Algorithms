@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+            //10001. asal?
+
             int i = 1;
             int e = 0;
             int counter = 0;

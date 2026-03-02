@@ -21,7 +21,7 @@
                 }
                 number = number + k;
             }
-            Console.WriteLine("Toplam: " + total);
+            Console.WriteLine("Total: " + total);
         }
     }
 }
